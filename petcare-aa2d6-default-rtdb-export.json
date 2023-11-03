@@ -1,0 +1,81 @@
+{
+  "Admin": {
+    "admin_id": 7,
+    "email": "morax@hoyoverse.com",
+    "nama": "Morax",
+    "password": "morax123"
+  },
+  "Alamat": {
+    "alamat_id": 2,
+    "customer_id": 1,
+    "jalan": "starfell valey",
+    "kodepos": 1000,
+    "kota": "mondstadt",
+    "nama": "windrise"
+  },
+  "Customer": {
+    "customer_id": 1,
+    "email": "zhongli@hoyoverse.com",
+    "nama_customer": "Zhongli",
+    "password": "zhongli123",
+    "tanggal_lahir": "01/01/2000"
+  },
+  "Hewan": {
+    "customer_id": 1,
+    "hewan_id": 3,
+    "nama_hewan": "Dvalin"
+  },
+  "History": {
+    "customer_id": 1,
+    "deskripsi_produk": "produk merupakan makanan hewan",
+    "foto_produk": "foto1",
+    "harga_produk": 15000,
+    "history_id": 4,
+    "nama_produk": "food",
+    "pesanan_id": 5
+  },
+  "List Paket": {
+    "admin_id": 7,
+    "listPaket_id": 14
+  },
+  "ListPesanan": {
+    "admin_id": 7,
+    "customer_id": 1,
+    "list_pesanan": 6
+  },
+  "ListProduk": {
+    "admin_id": 7,
+    "listProduk_id": 10
+  },
+  "Paket": {
+    "listPaket_id": 14,
+    "paketLayanan_id": 12,
+    "paket_id": 13
+  },
+  "Pesan Layanan": {
+    "jenisLayanan_id": 11,
+    "paketLayanan_id": 12
+  },
+  "Pesanan": {
+    "customer_id": 1,
+    "deskripsi_produk": "produk merupakan makanan hewan",
+    "foto_produk": "foto1",
+    "harga_produk": 15000,
+    "list_pesanan": 6,
+    "nama_produk": "food",
+    "pesanan_id": 5
+  },
+  "PetShop": {
+    "petshop_id": 8,
+    "produk_id": 9
+  },
+  "Produk": {
+    "admin_id": 7,
+    "deskripsi_produk": "produk merupakan makanan hewan",
+    "foto_produk": "foto1",
+    "harga_produk": 15000,
+    "listProduk_id": 10,
+    "nama_produk": "food",
+    "produk_id": 9
+  }
+}
